@@ -19,10 +19,9 @@ div {
 }
 
 .nav {
-    
+
     width: 160px;
-    color: #FFFFFF
-    text-shadow: 0 2px #000000;
+    color: #000000;
     margin-left: 20px;
 }
 
@@ -40,6 +39,8 @@ h1 {
     background-image: url('https://raw.githubusercontent.com/zachode/zachode.github.io/master/Images/H6UXS40LRU.jpg');
     background-position: center top;
     background-size: cover;
+    color:#FFFFFF;
+    text-shadow: 0 2px #000000;
 }
 
 .main h1{
