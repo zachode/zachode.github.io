@@ -12,6 +12,7 @@ div {
 
 .container {
     display: flex;
+    color: #FFFFFF;
 }
 
 .main {
@@ -20,8 +21,6 @@ div {
 
 .nav {
 
-    width: 160px;
-    color: #000000;
     margin-left: 20px;
 }
 
