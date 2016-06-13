@@ -1,6 +1,6 @@
 html, body {
     font-family: sans-serif;
-    height: 1080p;
+    height: 2160px;
     margin: 0;
     width: 100%;
 }
@@ -30,7 +30,6 @@ h1 {
 
 .nav h1 {
     font-family: 'Trebuchet MS', 'Helvetica';
-    margin:30px;
     padding:30px;
 }
 
