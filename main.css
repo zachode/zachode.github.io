@@ -19,9 +19,7 @@ div {
 }
 
 .nav {
-    background-image: url('https://raw.githubusercontent.com/zachode/zachode.github.io/master/Images/H6UXS40LRU.jpg');
-    background-position: center top;
-    background-size: cover;
+    
     width: 160px;
     color: #FFFFFF
     text-shadow: 0 2px #000000;
@@ -39,7 +37,9 @@ h1 {
 }
 
 .main{
-    
+    background-image: url('https://raw.githubusercontent.com/zachode/zachode.github.io/master/Images/H6UXS40LRU.jpg');
+    background-position: center top;
+    background-size: cover;
 }
 
 .main h1{
