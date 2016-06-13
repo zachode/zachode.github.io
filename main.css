@@ -30,7 +30,10 @@ h1 {
 }
 
 .nav h1 {
-    padding-left: 40px;
+    text-shadow: 0 2px #000000;
+    font-family: 'Trebuchet MS', 'Helvetica';
+    margin:30px;
+    padding:30px;
 }
 
 .main{
@@ -39,7 +42,7 @@ h1 {
 }
 
 .main h1{
-
+    font-family: Georgia, serif;
 }
 
 
