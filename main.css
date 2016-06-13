@@ -21,7 +21,7 @@ div {
 .nav {
     background-color: #FFFFFF;
     width: 160px;
-    font: #044C63;
+    color: #044C63;
 }
 
 h1 {
@@ -34,7 +34,7 @@ h1 {
 
 .main{
     background-color: #044C63;
-    font: white;
+    color: #FFFFFF;
 }
 
 .main h1{
