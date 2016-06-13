@@ -19,9 +19,9 @@ div {
 }
 
 .nav {
-    background-color: #FFFFFF;
+    background-color: #044C63;
     width: 160px;
-    color: #044C63;
+    color: #FFFFFF
     margin-left: 20px;
 }
 
@@ -37,8 +37,7 @@ h1 {
 }
 
 .main{
-    background-color: #044C63;
-    color: #FFFFFF;
+    
 }
 
 .main h1{
