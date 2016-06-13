@@ -12,6 +12,7 @@ div {
 
 .container {
     display: flex;
+    height:1080px;
     color: #FFFFFF;
 }
 
