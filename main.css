@@ -20,6 +20,8 @@ div {
 
 .nav {
     background-image: url('https://github.com/zachode/zachode.github.io/blob/master/Images/H6UXS40LRU.jpg');
+    background-position: center top;
+    background-size: cover;
     width: 160px;
     color: #FFFFFF
     text-shadow: 0 2px #000000;
