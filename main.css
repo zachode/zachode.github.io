@@ -36,7 +36,7 @@ h1 {
 
 .main{
     background-image: url('/Images/Cabin-Cropped.png');
-    background-position: center bottom;
+    background-position: center top;
     background-size: cover;
     color:#FFFFFF;
     text-shadow: 0 2px #000000;
