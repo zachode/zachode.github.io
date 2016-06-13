@@ -42,6 +42,10 @@ h1 {
     text-shadow: 0 2px #000000;
 }
 
+.main p{
+    font-weight: bold;
+}
+
 .main h1{
     font-family: Georgia, serif;
 }
