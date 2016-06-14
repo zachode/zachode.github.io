@@ -75,7 +75,8 @@ h1 {
 }
 
 .nav li a:hover{
-    background-color: rgba(178,178,118, 0.9);
+    background-color: rgba(229,241,246, 0.9);
+    color: black;
 }
 
 .nav li a{
