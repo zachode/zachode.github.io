@@ -6,7 +6,7 @@ html, body {
 }
 
 div {
-    padding-right: 30px;
+    padding-right: 0px;
     width: 100%;
 }
 
@@ -28,7 +28,7 @@ div {
     margin-left: 20px;
     color:#FFFFFF;
     text-shadow: 0 2px #000000;
-    padding-left: 30px;
+    padding-left: 20px;
     background-color: rgba(0,0,0, 0.6);
     width: 350px;
 }
