@@ -33,11 +33,11 @@ div {
 }
 
 .main p{
-    font-weight: bold;
+    font-family: 'Amatica SC', cursive;
 }
 
 .main h1{
-    font-family: Georgia, serif;
+    font-family: 'Yellowtail', cursive;
 }
 
 .nav {
