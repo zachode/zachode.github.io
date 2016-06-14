@@ -97,6 +97,9 @@ h1 {
     background-color: black;
     text-align: center;
     vertical-align: center;
+}
+
+.footer a{
     text-decoration: none;
 }
 
