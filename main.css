@@ -56,9 +56,13 @@ h1 {
     text-decoration: none;
 }
 .main{
-    background-image: url('/Images/Space-roof.jpg');
-    background-position: center top;
+    background-image: url('/Images/Cabin-Cropped.png');
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
     background-size: cover;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
     color:#FFFFFF;
     text-shadow: 0 2px #000000;
 }
