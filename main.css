@@ -33,6 +33,26 @@ h1 {
     padding:30px;
 }
 
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+.nav li{
+    float: left;
+}
+
+.nav li a{
+    display: block;
+    color: white;
+    text-shadow: 0 2px #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 .main{
     background-image: url('/Images/Cabin-Cropped.png');
     background-position: center top;
@@ -48,6 +68,8 @@ h1 {
 .main h1{
     font-family: Georgia, serif;
 }
+
+
 
 .footer {
     background-color: #000000;
