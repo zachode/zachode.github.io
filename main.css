@@ -13,16 +13,37 @@ div {
 .container {
     display: flex;
     color: #FFFFFF;
+    background-image: url('/Images/Cabin-Cropped.png');
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
 }
 
-.main {
+.main{
     padding-left: 30px;
-    padding-top:150px;
+    padding-bottom:20px;
+    width: 100px;
+    background-color: black;
+    opacity: .2;
+    color:#FFFFFF;
+    text-shadow: 0 2px #000000;
+}
+
+.main p{
+    font-weight: bold;
+}
+
+.main h1{
+    font-family: Georgia, serif;
 }
 
 .nav {
 
     margin-left: 20px;
+    
 }
 
 h1 {
@@ -55,32 +76,15 @@ h1 {
     font-size: 20px;
     text-decoration: none;
 }
-.main{
-    background-image: url('/Images/Cabin-Cropped.png');
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    background-size: cover;
-    background-position: top center !important;
-    background-repeat: no-repeat !important;
-    background-attachment: fixed;
+
+.footer {
     color:#FFFFFF;
-    text-shadow: 0 2px #000000;
-}
-
-.main p{
-    font-weight: bold;
-}
-
-.main h1{
-    font-family: Georgia, serif;
+    text-align: center;
 }
 
 div#preload { display: none;}
 
 
 
-.footer {
-    color:#FFFFFF;
-    text-align: center;
-}
+
 
