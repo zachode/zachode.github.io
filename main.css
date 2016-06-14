@@ -1,6 +1,6 @@
 html, body {
     font-family: sans-serif;
-    height: 5000px;
+    height: 100%;
     margin: 0;
     width: 100%;
 }
@@ -13,11 +13,11 @@ div {
 .container {
     display: flex;
     color: #FFFFFF;
-    padding-top:300px;
 }
 
 .main {
     padding-left: 30px;
+    padding-top:150px;
 }
 
 .nav {
@@ -51,7 +51,6 @@ h1 {
     display: block;
     color: white;
     text-shadow: 0 2px #000000;
-    text-align: center;
     padding: 14px 16px;
     font-size: 20px;
     text-decoration: none;
@@ -78,6 +77,6 @@ div#preload { display: none;}
 
 .footer {
     color:#FFFFFF;
-    text-align:center;
+    text-align: center;
 }
 
