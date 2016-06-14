@@ -13,23 +13,12 @@ div {
 .container {
     display: flex;
     color: #FFFFFF;
-    background-image: url('/Images/Cabin-Cropped.png');
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    background-size: cover;
-    background-position: top center !important;
-    background-repeat: no-repeat !important;
-    background-attachment: fixed;
 }
 
 .main{
-    padding-left: 30px;
-    padding-bottom:20px;
-    width: 100px;
-    background-color: black;
-    opacity: .2;
     color:#FFFFFF;
     text-shadow: 0 2px #000000;
+    padding-left: 30px;
 }
 
 .main p{
@@ -38,6 +27,12 @@ div {
 
 .main h1{
     font-family: Georgia, serif;
+}
+
+.overlay{
+    width:100px;
+    background-color: black;
+    opacity: .4;
 }
 
 .nav {
