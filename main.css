@@ -1,8 +1,6 @@
 html, body {
     font-family: sans-serif;
     height: 100%;
-    min-height: 100%;
-    max-height: 100%;
     margin: 0;
     width: 100%;
 }
@@ -13,6 +11,8 @@ div {
 }
 
 .container {
+    width: inherit;
+    height: inherit;
     display: flex;
     color: #FFFFFF;
     background-image: url('/Images/Cabin-Cropped.png');
