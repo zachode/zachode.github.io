@@ -48,11 +48,11 @@ h1 {
 
 .nav li a{
     display: block;
-    color: white;
+    color: #FCD092;
     text-shadow: 0 2px #000000;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    font-size: 20px;
 }
 .main{
     background-image: url('/Images/Cabin-Cropped.png');
@@ -75,7 +75,6 @@ div#preload { display: none;}
 
 
 .footer {
-    background-color: #000000;
     color:#FFFFFF;
 }
 
