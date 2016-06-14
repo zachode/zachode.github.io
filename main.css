@@ -16,6 +16,13 @@ div {
 }
 
 .main{
+    background-image: url('/Images/Cabin-Cropped.png');
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
     color:#FFFFFF;
     text-shadow: 0 2px #000000;
     padding-left: 30px;
@@ -30,8 +37,8 @@ div {
 }
 
 .overlay{
-    width:100px;
     background-color: black;
+    width: 100px;
     opacity: .4;
 }
 
