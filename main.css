@@ -42,7 +42,7 @@ div {
 }
 
 .nav {
-
+    width: inherit;
 }
 
 h1 {
@@ -59,7 +59,7 @@ h1 {
     padding: 0;
     overflow: hidden;
     background-color: transparent;
-    border:2px solid gray;
+    border-bottom:2px solid gray;
 }
 
 .nav li{
