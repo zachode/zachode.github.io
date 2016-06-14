@@ -26,9 +26,8 @@ div {
     color:#FFFFFF;
     text-shadow: 0 2px #000000;
     padding-left: 30px;
-    background-color: black;
+    background-color: black opacity.6;
     width: 450px;
-    opacity: .4;
 }
 
 .main p{
@@ -41,8 +40,6 @@ div {
 
 .nav {
 
-    margin-left: 20px;
-    
 }
 
 h1 {
@@ -75,6 +72,9 @@ h1 {
 }
 
 .footer {
+    height:50px;
+    padding:10px;
+    margin:0px;
     color:#FFFFFF;
     background-color: black;
     text-align: center;
