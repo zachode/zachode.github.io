@@ -27,7 +27,6 @@ div {
 .main{
     margin-left: 20px;
     color:#FFFFFF;
-    text-shadow: 0 2px #000000;
     padding-left: 20px;
     background-color: rgba(0,0,0, 0.6);
     width: 350px;
@@ -54,9 +53,9 @@ h1 {
 }
 
 .nav ul{
+    padding-top: 20px;
     list-style-type: none;
     margin: 0;
-    padding: 0;
     overflow: hidden;
     background-color: transparent;
 }
