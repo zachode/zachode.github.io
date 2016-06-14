@@ -63,6 +63,7 @@ h1 {
 
 .nav li{
     float: center;
+    background-color: rgba(79,91,77, 0.6);
 }
 
 .nav li a{
