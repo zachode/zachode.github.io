@@ -28,7 +28,7 @@ h1 {
     font-size: 48px;
 }
 
-.nav h1 {
+.nav h2 {
     font-family: 'Trebuchet MS', 'Helvetica';
     text-align: center;
     padding:30px;
@@ -48,11 +48,12 @@ h1 {
 
 .nav li a{
     display: block;
-    color: #FCD092;
+    color: white;
     text-shadow: 0 2px #000000;
     text-align: center;
     padding: 14px 16px;
     font-size: 20px;
+    text-decoration: none;
 }
 .main{
     background-image: url('/Images/Cabin-Cropped.png');
@@ -76,5 +77,6 @@ div#preload { display: none;}
 
 .footer {
     color:#FFFFFF;
+    text-align:center;
 }
 
