@@ -73,6 +73,7 @@ h1 {
 
 .nav li{
     padding-left: 20px;
+    margin-left: 20px;
     border-top:1px solid gray;
 }
 
