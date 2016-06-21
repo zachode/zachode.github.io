@@ -118,7 +118,9 @@ h1 {
     height:500px;
     color:#424242;
     padding:10px;
-    border-style: round;
+    border: 1px;
+    border-radius: 30px;
+    opacity: 80%;
 
 }
 
