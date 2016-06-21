@@ -30,7 +30,8 @@ div {
     position: absolute;
     left: 20px;
     background-color: rgba(0,0,0, 0.6);
-    width: 350px;
+    width: 370px;
+    height:100%;
 }
 
 .main p{
