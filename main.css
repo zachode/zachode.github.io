@@ -121,7 +121,6 @@ h1 {
     height: 500px;
     color: white;
     font-size: 20px;
-    background-color: #406661;
 }
 
 .col2-styling{
@@ -130,7 +129,6 @@ h1 {
     height: 500px;
     color: white;
     font-size: 20px;
-    background-color: #3BB873;
 }
 
 .col3-styling{
@@ -139,7 +137,6 @@ h1 {
     height: 500px;
     color: white;
     font-size: 20px;
-    background-color: #94ED88;
 }
 
 div#preload { display: none;}
