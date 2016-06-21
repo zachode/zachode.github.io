@@ -105,9 +105,13 @@ h1 {
     text-decoration: none;
 }
 
-.row{
-
+.row h3{
+    color: white;
 }
+
+ .col-sm-4{
+    background-color: #406661;
+ }
 
 .col1-styling{
     text-align: center;
