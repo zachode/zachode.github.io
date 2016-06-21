@@ -118,6 +118,7 @@ h1 {
     height:500px;
     color:#424242;
     padding:10px;
+    border-style: round;
 
 }
 
@@ -139,19 +140,19 @@ h1 {
 
 .col1-styling h3 {
 
-    color: white;
+    color: #3BB873;
 
 }
 
 .col2-styling h3{
 
-    color: white;
+    color: #3BB873;
 
 }
 
 .col3-styling h3{
 
-    color: white;
+    color: #3BB873;
 
 }
 
