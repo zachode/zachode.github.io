@@ -105,8 +105,11 @@ h1 {
     text-decoration: none;
 }
 
-.col1-styling {
+.container-fluid{
+    background-color: #384137;
+}
 
+.col1-styling {
     background-color: #406661;
     height:500px;
     color:white;
@@ -115,7 +118,6 @@ h1 {
 }
 
 .col2-styling {
-
     background-color: #3BB873;
     height:500px;
     color:white;
@@ -124,7 +126,6 @@ h1 {
 }
 
 .col3-styling {
-
     background-color: #94ED88;
     height:500px;
     color:white;
@@ -151,21 +152,19 @@ h1 {
 }
 
 .col1-styling p {
-
-    
+    font-size: 16px;
+    padding-top: 20px;
 
 }
 
 .col2-styling p{
-
-    
-
+    font-size: 16px;
+    padding-top: 20px;
 }
 
 .col3-styling p{
-
-    
-
+    font-size: 16px;
+    padding-top: 20px;
 }
 
 
