@@ -114,6 +114,7 @@ h1 {
 
 .row{
     vertical-align: middle;
+    display:inline-block;
     float:none;
 }
 
