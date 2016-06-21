@@ -27,7 +27,8 @@ div {
 .main{
     margin-left: 20px;
     color:#FFFFFF;
-    padding-left: 20px;
+    position: absolute;
+    left: 20px;
     background-color: rgba(0,0,0, 0.6);
     width: 350px;
 }
@@ -41,10 +42,13 @@ div {
     font-family: 'Amatica SC', cursive;
 }
 
+.heading{
+
+}
+
 .nav {
     position: absolute;
     top:280px;
-    width: 350px;
 }
 
 h1 {
