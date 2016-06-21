@@ -25,10 +25,9 @@ div {
 }
 
 .main{
-    margin-left: 20px;
     color:#FFFFFF;
     position: absolute;
-    left: 20px;
+    left: 40px;
     background-color: rgba(0,0,0, 0.6);
     width: 400px;
     height:100%;
@@ -44,8 +43,7 @@ div {
 }
 
 .heading{
-    margin-left:10px; 
-    margin-right:10px;
+
 }
 
 .nav {
