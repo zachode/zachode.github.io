@@ -114,6 +114,7 @@ h1 {
  }
 
 .col1-styling{
+    height: 100%;
     text-align: center;
     color: white;
     font-size: 20px;
