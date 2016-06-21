@@ -107,6 +107,7 @@ h1 {
 
 .row h3{
     color: white;
+    align-content: center;
 }
 
  .col-sm-4{
@@ -114,22 +115,21 @@ h1 {
  }
 
 .col1-styling{
-    height: 100%;
-    text-align: center;
+    height: 500px;
     color: white;
     font-size: 20px;
     background-color: #406661;
 }
 
 .col2-styling{
-    text-align: center;
+    height: 500px;
     color: white;
     font-size: 20px;
     background-color: #3BB873;
 }
 
 .col3-styling{
-    text-align: center;
+    height: 500px;
     color: white;
     font-size: 20px;
     background-color: #94ED88;
