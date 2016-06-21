@@ -105,9 +105,8 @@ h1 {
     text-decoration: none;
 }
 
-.row h3{
-    color: white;
-    align-content: center;
+.row {
+
 }
 
  .col-sm-4{
@@ -115,28 +114,22 @@ h1 {
     height:500px;
  }
 
-.col1-styling{
-    display: table-cell;
-    float:none;
-    height: 500px;
-    color: white;
-    font-size: 20px;
+.col1-styling {
+
+    padding:20px;
+
 }
 
-.col2-styling{
-    display: table-cell;
-    float:none;
-    height: 500px;
-    color: white;
-    font-size: 20px;
+.col2-styling {
+
+    padding:20px;
+
 }
 
-.col3-styling{
-    display: table-cell;
-    float:none;
-    height: 500px;
-    color: white;
-    font-size: 20px;
+.col3-styling {
+
+    padding:20px;
+    
 }
 
 div#preload { display: none;}
