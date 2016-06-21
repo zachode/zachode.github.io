@@ -106,7 +106,7 @@ h1 {
 }
 
 .container-fluid{
-    background-color: #384137;
+    background-color: #005D12;
 }
 
 .jumbotron{
@@ -114,25 +114,25 @@ h1 {
 }
 
 .col1-styling {
-    background-color: #406661;
+    background-color: #000000;
     height:500px;
-    color:#94ED88;
+    color:#E6C54B;
     padding:10px;
 
 }
 
 .col2-styling {
-    background-color: #406661;
+    background-color: #000000;
     height:500px;
-    color:#94ED88;
+    color:#E6C54B;
     padding:10px;
 
 }
 
 .col3-styling {
-    background-color: #406661;
+    background-color: #000000;
     height:500px;
-    color:#94ED88;
+    color:#E6C54B;
     padding:10px;
 
 }
