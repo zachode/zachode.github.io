@@ -112,9 +112,9 @@ h1 {
     background-color: #424242;
 }
 
-.jumbotron{
-    background-color: #3BB873;
-    color:white;
+.row{
+    vertical-align: middle;
+    float:none;
 }
 
 .col1-styling {
