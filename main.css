@@ -73,6 +73,8 @@ h1 {
 
 .nav li{
     border-top:1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .nav li a:active{
