@@ -85,10 +85,9 @@ h1 {
     border-bottom: 1px solid gray;
 }
 
-.nav li a:hover{
+.nav li:hover{
     background-color: rgba(97,60,51, 0.4);
     font-weight: bold;
-    margin-left:0px;
 }
 
 .nav li a{
