@@ -42,6 +42,8 @@ div {
 }
 
 .nav {
+    position: absolute;
+    top:280px;
     width: 350px;
 }
 
