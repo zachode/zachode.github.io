@@ -105,18 +105,12 @@ h1 {
     text-decoration: none;
 }
 
-.row {
-    
-}
-
- .col-sm-4 p{
-    padding:5px;
- }
-
 .col1-styling {
 
     background-color: #406661;
     height:500px;
+    color:white;
+    padding:10px;
 
 }
 
@@ -124,6 +118,8 @@ h1 {
 
     background-color: #3BB873;
     height:500px;
+    color:white;
+    padding:10px;
 
 }
 
@@ -131,12 +127,48 @@ h1 {
 
     background-color: #94ED88;
     height:500px;
+    color:white;
+    padding:10px;
 
 }
 
-.h3 {
-    padding: 10px;
+.col1-styling h3 {
+
+    
+
 }
+
+.col2-styling h3{
+
+    
+
+}
+
+.col3-styling h3{
+
+    
+
+}
+
+.col1-styling p {
+
+    
+
+}
+
+.col2-styling p{
+
+    
+
+}
+
+.col3-styling p{
+
+    
+
+}
+
+
 
 
 
