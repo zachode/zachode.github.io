@@ -47,10 +47,8 @@ h1 {
 }
 
 .nav ul{
-    padding-top: 20px;
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-bottom: 0px;
+    position:absolute;
+    top: 300px;
     list-style-type: none;
     margin: 0;
     overflow: hidden;
