@@ -140,16 +140,14 @@ h1 {
 
 .col-sm-4 p{
     font-family: 'Yellowtail', cursive;
+    padding-top: 10px;
     font-size: 20px;
     text-align: center;  
     color: black;
 }
 
 .col-sm-4 ul{
-    padding-top: 20px;
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-bottom: 0px;
+    padding-top: 10px;
     list-style-type: none;
     margin: 0;
     overflow: hidden;
