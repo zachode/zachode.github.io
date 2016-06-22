@@ -99,13 +99,13 @@ h1 {
 }
 
 .container-fluid{
-    background-color: #19270D;
+    background-color: #456e22;
     background-size: cover;
     min-height: 100%;
 }
 
 .row{
-    padding-left: 720px;
+    padding-left: 690px;
 }
 
 .col-sm-4 {
