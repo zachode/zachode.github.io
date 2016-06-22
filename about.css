@@ -42,13 +42,12 @@ div {
 }
 
 .row{
-    color: #818C3C;
-    background-color: #19270D;
-    height: 500px;
+    height:100%;
 }
 
 .col-sm-4 {
-    
+    background-color: #19270D;
+    height: 500px;
 }
 
 .col-sm-4 h3{
