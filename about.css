@@ -38,9 +38,6 @@ div {
   }
 
 .container-fluid{
-    width: inherit;
-    height: inherit;
-    display: flex;
     background-color: #593A0E;
 }
 
@@ -51,9 +48,7 @@ div {
 }
 
 .col-sm-4 {
-    color: #25591F;
-    font-family: 'Amatica SC', cursive;
-    text-align: center;  
+    
 }
 
 .col-sm-4 h3{
@@ -63,7 +58,8 @@ div {
 }
 
 .col-sm-4 p{
-    color: #25591F;
-    font-family: 'Amatica SC', cursive;
+    font-family: 'Yellowtail', cursive;
+    font-size: 20px;
     text-align: center;  
+    color: #818C3C;
 }
