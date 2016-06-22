@@ -105,7 +105,7 @@ h1 {
 }
 
 .row{
-    padding-left:25%;
+    float: center;
 }
 
 .col-sm-4 {
