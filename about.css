@@ -133,3 +133,22 @@ h1 {
     text-align: center;  
     color: black;
 }
+
+.col-sm-4 ul{
+    font-family: 'Yellowtail', cursive;
+    font-size: 20px;
+    text-align: center;  
+    color: black;
+}
+
+.col-sm-4 li{
+    font-family: 'Yellowtail', cursive;
+    font-size: 20px;
+    text-align: center;  
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    text-decoration: none;
+    margin-left: 10px;
+}
