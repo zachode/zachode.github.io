@@ -27,7 +27,7 @@ div {
 .main{
     color:#FFFFFF;
     position: absolute;
-    left: 40px;
+    top:250px;
     background-color: rgba(0,0,0, 0.6);
     width: 400px;
     height:100%;
@@ -49,7 +49,7 @@ div {
 
 .nav {
     position: absolute;
-    top:250px;
+    left: 40px;
 }
 
 h1 {
