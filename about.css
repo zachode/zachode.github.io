@@ -135,10 +135,14 @@ h1 {
 }
 
 .col-sm-4 ul{
-    font-family: 'Yellowtail', cursive;
-    font-size: 20px;
-    text-align: center;  
-    color: black;
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: transparent;
 }
 
 .col-sm-4 li{
@@ -149,4 +153,5 @@ h1 {
     padding-top: 10px;
     padding-bottom: 10px;
     text-decoration: none;
+    display: block;
 }
