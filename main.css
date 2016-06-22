@@ -45,7 +45,7 @@ div {
 }
 
 .heading{
-    width:370px;
+    width:450px;
     padding-left: 10px;
 }
 
@@ -62,7 +62,7 @@ h1 {
 }
 
 .nav ul{
-    padding-top: 20px;
+    padding-top: 0px;
     padding-left: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
