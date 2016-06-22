@@ -101,6 +101,7 @@ h1 {
 .container-fluid{
     background-color: #593A0E;
     background-size: cover;
+    min-height: 100%;
 }
 
 .row{
