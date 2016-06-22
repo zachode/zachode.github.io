@@ -36,6 +36,8 @@ div {
 .main p{
     font-family: 'Yellowtail', cursive;
     font-size: 20px;
+    position:absolute;
+    top:250px;
 }
 
 .main h1{
@@ -48,8 +50,7 @@ div {
 }
 
 .nav {
-    position: absolute;
-    top: 250px;
+
 }
 
 h1 {
