@@ -129,6 +129,8 @@ h1 {
     background-color: #19270D;
     position: absolute;
     top: 150px;
+    left: 500px;
+    height: 500px;
 }
 
 .col-sm-4 h3{
