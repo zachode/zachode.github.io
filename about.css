@@ -1,0 +1,69 @@
+html, body {
+    font-family: sans-serif;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+
+div {
+    padding-right: 0px;
+    width: 100%;
+}
+
+.main{
+    color:#FFFFFF;
+    position: absolute;
+    left: 40px;
+    background-color: rgba(0,0,0, 0.6);
+    width: 400px;
+    height:100%;
+}
+
+.main p{
+    font-family: 'Yellowtail', cursive;
+    font-size: 20px;
+}
+
+.main h1{
+    font-family: 'Amatica SC', cursive;
+}
+
+.heading{
+    width:370px;
+    padding-left: 10px;
+}
+
+.nav {
+    position: absolute;
+  }
+
+.container-fluid{
+    width: inherit;
+    height: inherit;
+    display: flex;
+    background-color: #593A0E;
+}
+
+.row{
+    color: #818C3C;
+    background-color: #19270D;
+    height: 500px;
+}
+
+.col-sm-4 {
+    color: #25591F;
+    font-family: 'Amatica SC', cursive;
+    text-align: center;  
+}
+
+.col-sm-4 h3{
+    color: #25591F;
+    font-family: 'Amatica SC', cursive;
+    text-align: center;  
+}
+
+.col-sm-4 p{
+    color: #25591F;
+    font-family: 'Amatica SC', cursive;
+    text-align: center;  
+}
