@@ -35,7 +35,7 @@ div {
 
 .nav {
     position: absolute;
-    top:280px;
+    top:400px;
   }
 
 h1 {
@@ -47,8 +47,10 @@ h1 {
 }
 
 .nav ul{
-    position:absolute;
-    top: 300px;
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
     list-style-type: none;
     margin: 0;
     overflow: hidden;
@@ -98,7 +100,7 @@ h1 {
 }
 
 .container-fluid{
-    background-color: #38571d;
+    background-color: #19270D;
     background-size: cover;
     min-height: 100%;
 }
