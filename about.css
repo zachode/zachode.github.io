@@ -123,11 +123,11 @@ h1 {
 .col-sm-4 {
     margin-top:15%;
     margin-left:20px;
-    background-color: #F0F5F9;
+    background-color: #C9D6DF;
     height: 400px;
     width:300px;
     border-style: solid;
-    border-color:#C9D6DF;
+    border-color:#F0F5F9;
     border-width: 8px
 }
 
