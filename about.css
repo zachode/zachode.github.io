@@ -172,7 +172,9 @@ h1 {
     color:#FFFFFF;
     background-color: black;
     text-align: center;
-    vertical-align: bottom;
+    position: fixed;
+    bottom:0;
+    width: 100%;
 }
 
 .footer a{
