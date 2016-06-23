@@ -13,7 +13,7 @@
   <script>
     function dropInfo(clicked){
 
-      if(clicked == "school_btn"){
+      if(clicked === "school_btn"){
         document.getElementById("school").innerHTML = "A recent Computer Engineering graduate from WVU, I chose to pursue my degree after previously graduating with a Journalism degree and working for a few years. Initial interest in hardware development was supplanted by a love for software development."
 
           document.getElementById("work").innerHTML = ""
@@ -21,7 +21,7 @@
           document.getElementById("intrests").innerHTML = ""
 
       }
-      else if(clicked == "work_btn"){
+      else if(clicked === "work_btn"){
           document.getElementById("work").innerHTML = "Currently an employee at WV Network, a state agency that provides various techonolgy solutions for educational institutions throughout the state of WV. My work has mainly focused on Web and Application Development."
 
           document.getElementById("school").innerHTML = ""
@@ -29,7 +29,7 @@
           document.getElementById("intrests").innerHTML = ""
 
       }
-      else if(clicked == "interests_btn"){
+      else if(clicked === "interests_btn"){
            document.getElementById("interests").innerHTML = "Technology Sports Music Outdoors Astronomy Futurology"
 
           document.getElementById("school").innerHTML = ""
