@@ -20,11 +20,6 @@
 
           document.getElementById("intrests").innerHTML = ""
 
-          document.getElementByClass("school_col").style.height = '450px';
-
-          document.getElementByClass("work_col").style.height = '40px';
-
-          document.getElementByClass("interests_col").style.height = '40px';
       }
       else if(clicked == "work_btn"){
           document.getElementById("work").innerHTML = "Currently an employee at WV Network, a state agency that provides various techonolgy solutions for educational institutions throughout the state of WV. My work has mainly focused on Web and Application Development."
@@ -33,12 +28,6 @@
 
           document.getElementById("intrests").innerHTML = ""
 
-          document.getElementByClass("work_col").style.height = '450px';
-
-
-          document.getElementByClass("school_col").style.height = '40px';
-
-          document.getElementByClass("interests_col").style.height = '40px';
       }
       else if(clicked == "interests_btn"){
            document.getElementById("interests").innerHTML = "Technology Sports Music Outdoors Astronomy Futurology"
@@ -46,12 +35,6 @@
           document.getElementById("school").innerHTML = ""
 
           document.getElementById("work").innerHTML = ""
-
-          document.getElementByClass("interests_col").style.height = '450px';
-
-          document.getElementByClass("school_col").style.height = '40px';
-
-          document.getElementByClass("work_col").style.height = '40px';
      
   </script>
 </head>
@@ -59,19 +42,19 @@
 <body>
   <div class ="row">
     
-    <div class="col-sm-4 text-center" id="school_col">
+    <div class="col-sm-4 text-center">
       <h3>School</h3>
       <button type="button" class="btn" id="school_btn" onclick="dropInfo(this.id)">More</button>
       <p id="school"></p>
     </div>
 
-    <div class="col-sm-4 text-center" id="work_col">
+    <div class="col-sm-4 text-center">
       <h3>Work</h3>
       <button type="button" class="btn" id="work_btn" onclick="dropInfo(this.id)">More</button>
       <p id="work"></p>
     </div>
       
-    <div class="col-sm-4 text-center" id="interests_col">
+    <div class="col-sm-4 text-center">
       <h3>Interests</h3>
       <button type="button" class="btn" id="interests_btn" onclick="dropInfo(this.id)">More</button>
       <p id="interests"></p> 
