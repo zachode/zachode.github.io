@@ -167,3 +167,18 @@ h1 {
     text-decoration: none;
     display: block;
 }
+
+.footer {
+    height:75px;
+    padding:10px;
+    margin:0px;
+    color:#FFFFFF;
+    background-color: black;
+    text-align: center;
+    vertical-align: center;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
