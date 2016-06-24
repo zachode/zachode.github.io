@@ -11,30 +11,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
   <script>
-    function dropInfo(clicked){
-
-      if(clicked === "school_btn"){
-        document.getElementById("school").innerHTML = "A recent Computer Engineering graduate from WVU, I chose to pursue my degree after previously graduating with a Journalism degree and working for a few years. Initial interest in hardware development was supplanted by a love for software development."
-
-          document.getElementById("work").innerHTML = ""
-
-          document.getElementById("intrests").innerHTML = ""
-
-      }
-      else if(clicked === "work_btn"){
-          document.getElementById("work").innerHTML = "Currently an employee at WV Network, a state agency that provides various techonolgy solutions for educational institutions throughout the state of WV. My work has mainly focused on Web and Application Development."
-
-          document.getElementById("school").innerHTML = ""
-
-          document.getElementById("intrests").innerHTML = ""
-
-      }
-      else if(clicked === "interests_btn"){
-           document.getElementById("interests").innerHTML = "Technology Sports Music Outdoors Astronomy Futurology"
-
-          document.getElementById("school").innerHTML = ""
-
-          document.getElementById("work").innerHTML = ""
+    
      
   </script>
 </head>
@@ -44,19 +21,19 @@
     
     <div class="col-sm-4 text-center">
       <h3>School</h3>
-      <button type="button" class="btn" id="school_btn" onclick="dropInfo(this.id)">More</button>
+      <button type="button" class="btn">More</button>
       <p id="school"></p>
     </div>
 
     <div class="col-sm-4 text-center">
       <h3>Work</h3>
-      <button type="button" class="btn" id="work_btn" onclick="dropInfo(this.id)">More</button>
+      <button type="button" class="btn">More</button>
       <p id="work"></p>
     </div>
       
     <div class="col-sm-4 text-center">
       <h3>Interests</h3>
-      <button type="button" class="btn" id="interests_btn" onclick="dropInfo(this.id)">More</button>
+      <button type="button" class="btn">More</button>
       <p id="interests"></p> 
     </div>
     
