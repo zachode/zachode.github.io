@@ -1,0 +1,4 @@
+function changebtn()
+{
+	document.getElementById("schoolbtn").value = "Thanks!"
+}
