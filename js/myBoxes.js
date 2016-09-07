@@ -1,5 +1,5 @@
 <script type="text/javascript">
 function changeBtn(){
-    document.getElementById("school").innerHTML = "It's clicked now";
+    window.alert(11);
 }
 </script>
