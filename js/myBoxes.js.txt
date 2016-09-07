@@ -1,4 +1,0 @@
-function changeBtn()
-{
-	document.write('11');
-}
